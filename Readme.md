@@ -19,7 +19,7 @@ Apoio e Parceiros
 - ??
 
 ## Links
-- [Formulário de Inscrição para participar como palestrante](https://forms.gle/67YJDDUibkTaPFYN8)
+- [Formulário de Inscrição para participar como palestrante](https://forms.gle/rV4QFduTsu4UcAG59)
 - [Grupo do Whatsapp para dúvidas](https://chat.whatsapp.com/LGFHJBAU7h4AbYtVGoHZiR)
 - [Acompanhe as inscrições](https://tinyurl.com/ufcday-2020-1-inscritos)
 
