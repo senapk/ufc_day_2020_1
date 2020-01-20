@@ -7,28 +7,35 @@ O UFC Day é um evento promovido pela UFC Quixadá, em que seus alunos, durante 
 
 Mas uma vez, de 11 a 20 de Fevereiro e 2020, o UFC Day vai acontecer. Se você é aluno da UFC Quixadá e quer ser voluntário, se inscreva no formulário online e informe em qual cidade você estará e quais escolas pretende visitar. Sua antiga escola é um ótimo lugar para voltar. Nós vamos entrar em contato, lhe ajudar com treinamento e orientações e indicar outras pessoas da sua cidade que podem ir com você.
 
-Um dos melhores presentes que se pode dar a alguém é esperança. Esse é o caso do Rayrisson Lima de **Jaguaribe**, do José Lucas Amorim de **Pedra Branca**, do David Castro de **Paraipaba**, da Elígia Freitas de **Quixadá** e de tantos outros estudantes que em 2017 e 2018 foram alcançados por esse evento e por causa dele hoje são alunos UFC. Eles estão aqui por você, querido voluntário, que através da sua visita levou não só a UFC, mas levou esperança.
+Um dos melhores presentes que se pode dar a alguém é esperança. Esse é o caso do Rayrisson Lima de **Jaguaribe**, do José Lucas Amorim de **Pedra Branca**, do David Castro de **Paraipaba**, da Elígia Freitas de **Quixadá** e de tantos outros estudantes que em 2017 e 2018 foram alcançados por esse evento e por causa dele hoje são alunos UFC. Na verdade eles estão aqui por você, querido voluntário, que através da sua visita levou não só a UFC, mas levou esperança.
+
+Nos acompanhe nas nossa mídias sociais para saber mais.
+- instagram: ufc.nas.escolas
+- site: ufcnasescolas.github.io
+
+Apoio e Parceiros
+- Pacce Quixadá
+- Pet SI
+- Pet Conexão de Saberes
+- Núcleo de Assitência Estudantil
 
 ## Links
+- [Formulário de Inscrição para participar como palestrante](https://forms.gle/67YJDDUibkTaPFYN8)
 - [Grupo do Whatsapp para dúvidas](https://chat.whatsapp.com/LGFHJBAU7h4AbYtVGoHZiR)
-- [Formulário de Inscrição para Participar como Palentrante]()
+- [Acompanhe as inscrições](https://tinyurl.com/ufcday-2020-1-inscritos)
 
 ## Material de Divulgação
 - [Ofício de Solicitação para entregar ao Diretor da Escola](oficio.pdf)
 
 ## Material de Apresentação
-- [Apresentação Slides]()
-- [Banner Benefícios]()
-- [Banner Cursos]()
+- [Apresentação Slides]() Em construção
+- [Banner Benefícios]() Em construção
+- [Banner Cursos]() Em construção
 - [Guia de Procedimentos](guia.md)
 
 ## Formulário de Feedback
-- Embaixador 
-- Participante 
-
-## Convite às Escolas
-
-
+- Embaixador - Em construção
+- Participante - Em construção
 
 ## Escolas Participantes
 
