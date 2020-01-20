@@ -15,9 +15,8 @@ Nos acompanhe nas nossa mídias sociais para saber mais.
 
 Apoio e Parceiros
 - Pacce Quixadá
-- Pet SI
-- Pet Conexão de Saberes
 - Núcleo de Assitência Estudantil
+- ??
 
 ## Links
 - [Formulário de Inscrição para participar como palestrante](https://forms.gle/67YJDDUibkTaPFYN8)
